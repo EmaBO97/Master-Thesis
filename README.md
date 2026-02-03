@@ -17,4 +17,4 @@ This thesis presents the complete R&D pipeline—from mechatronic design and mod
 
 ### 📁 Contents
 - `Thesis_Final_Report.pdf`: The full 80+ page technical report.
-- `Project_Poster.svg`: A high-level visual summary of the research and results.
+- `Project_Poster.pdf`: A high-level visual summary of the research.
